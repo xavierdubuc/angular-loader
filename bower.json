@@ -1,0 +1,24 @@
+{
+    "name": "xd-loader",
+    "description": "Simple loader for AngularJS",
+    "main": "dist/xd-loader.js",
+    "authors": [
+        "Xavier Dubuc"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "loader"
+    ],
+    "homepage": "https://www.xavierdubuc.com",
+    "private": false,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "angular": "angularjs#^1.6.1"
+    }
+}
